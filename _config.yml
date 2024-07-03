@@ -1,0 +1,6 @@
+theme: jekyll-theme-cayman
+title: The homepage of NicoSergio15
+description: What you will find here are links to projects, publications, and repositories related
+plugins:
+url: "https://nicosergio15.github.io/"
+markdown: kramdown
