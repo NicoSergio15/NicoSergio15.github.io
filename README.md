@@ -1,9 +1,9 @@
 ## About me
-Hi! I'm SUMIMOTO Yuya, a 3rd grade student of Hokkaido University majoring in Forest Science.
+Graduated from Hokkaido University in Japan and currently studying University of Tokyo. 
 ### My interests
-- **Languages:** currently English and French
-- **Coding:** I can write C++, HTML, CSS, Python and PHP. Now mainly use C++ for competition of algorithum(At Coder)
-- **My major:** I'm not in lab yet so nothing to talk about sadly.
+- **Languages:** English and French
+- **Coding:** I can write C++, HTML, CSS, R, Python and PHP. I have a growing interest in Linux OS.
+- **My major:** In Hokkaido Uni, I majored in Wood Chemistry for 1 and half years. Now I am studying Molecule Biology.
 
 ### My Career Path
 - Born and raised in Hyogo, Kansai
